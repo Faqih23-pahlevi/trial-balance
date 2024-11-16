@@ -1,13 +1,5 @@
-<<<<<<< HEAD
 ahsan mengubah ini
 faqih rubah
 trial
 perubahan 1
 tugas dari roy 
-=======
-ahsan mengubah ini additional
-faqih rubah tambahan
-trial doang
-
-asep menambahkan
->>>>>>> main
